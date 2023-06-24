@@ -1,10 +1,5 @@
 ![Screenshot 2023-06-24 181530](https://github.com/TahaMohamed1993/ChallengeBayanatz/assets/91631512/5229dbae-3601-4bc6-8782-54286f6f399f)
-![Uploading Screenshot 2023-06-24 152130.png…]()
-![Uploading Screenshot 2023-06-24 141542.png…]()
-![Uploading Screenshot 2023-06-24 141059.png…]()
 ![Screenshot 2023-06-24 135158](https://github.com/TahaMohamed1993/ChallengeBayanatz/assets/91631512/5af42786-d86a-4a41-99c5-82ea2b68d5de)
-![Uploading Screenshot 2023-06-24 134925.png…]()
-![Uploading Screenshot 2023-06-24 134249.png…]()
 # Challenge Bayanatz App
 
 Challenge Bayanatz App is a Flutter application that demonstrates the implementation of Firebase authentication and Cloud Messaging for sending push notifications. The app includes features such as user login, new user registration, and a main page with a clothing gallery displayed in a grid view.
@@ -18,9 +13,10 @@ Challenge Bayanatz App is a Flutter application that demonstrates the implementa
 - Push notifications: Users receive notifications for promotions, discounts, and reminders.
 
 ## Screenshots
-![Uploading Screenshot 2023-06-24 133823.png…]()
-![Uploading Screenshot 2023-06-24 181713.png…]()
+![Screenshot 2023-06-24 181530](https://github.com/TahaMohamed1993/ChallengeBayanatz/assets/91631512/2cbfaabc-030a-4aac-9c88-8a83b62a7941)
 
+![Screenshot 2023-06-24 152130](https://github.com/TahaMohamed1993/ChallengeBayanatz/assets/91631512/fd558dd7-2407-45e7-8634-9b93290162e5)
+![Screenshot 2023-06-24 141059](https://github.com/TahaMohamed1993/ChallengeBayanatz/assets/91631512/0a835b28-1ee0-4741-bb68-1d33c3c91f5c)
 
 ## Getting Started
 
